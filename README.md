@@ -1,5 +1,5 @@
 <img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
-<h1 align="center">Hi 👋, I'm Nhat Hai</h1>
+<h1 align="center">Hi 👋, I'm Chi Thanh </h1>
 <p align="center">
   <h3 align="center">A software developer from Vietnam 🇻🇳 </h3>
 </p>
@@ -12,13 +12,13 @@
   <a href="https://www.facebook.com/sunsetloverfu" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a> 
-  <a href="https://github.com/DinhNhatHai" alt="Github">
+  <a href="https://github.com/PhamChiThanh" alt="Github">
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
   </a> 
   <a href="#" alt="Youtube channel" target="_blank" >
     <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
   </a>
-  <a href="mailto:dinhnhathai1@gmail.com" alt="Email">
+  <a href="mailto:chithanh120502@gmail.com" alt="Email">
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
   </a>
 </p>
